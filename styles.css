@@ -22,6 +22,12 @@ nav {
   align-items: center;
   list-style: none;
 }
+.linkbox {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 2px;
+}
 .wrapper {
   width: 50%;
 }
@@ -99,7 +105,7 @@ nav {
   .menu-btn {
     display: block;
     position: absolute;
-    z-index: 2;
+    z-index: 1;
     right: 20px;
     /* left: 20px; */
     top: 20px;
@@ -122,6 +128,7 @@ nav {
   #active:checked ~ .menu-btn i:before {
     content: "\f00d";
   }
+
   .wrapper ul {
     position: absolute;
     top: 50%;
@@ -234,23 +241,7 @@ p {
   background-size: 100vw 137vh;
   background-repeat: no-repeat;
 }
-#section1 {
-  background-image: url("http://i.imgur.com/k1hqL67.jpg");
-  transform: translateZ(-1px) scale(2);
-  z-index: -1;
-}
-#section2 {
-  background-image: url("http://i.imgur.com/SYAARx7.jpg");
-  background-attachment: fixed;
-}
-#section3 {
-  background-image: url("http://i.imgur.com/jo4HX13.jpg");
-  transform: translateZ(-1px) scale(2);
-  z-index: -1;
-}
-#section4 {
-  background: #111;
-}
+
 .titleline,
 .titlepara {
   text-shadow: 2px 4px 4px black;
