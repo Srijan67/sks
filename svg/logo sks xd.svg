@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81.342" height="105" viewBox="0 0 81.342 105">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.883" y1="6.314" x2="1.832" y2="6.314" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6abd45" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#b3d88e" stop-opacity="0.788"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="11.844" y1="-32.112" x2="12.877" y2="-32.112" gradientUnits="objectBoundingBox">
+      <stop offset="0.26" stop-color="#1072ba" stop-opacity="0.722"/>
+      <stop offset="0.96" stop-color="#70cddd" stop-opacity="0.439"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-144.989 -9)">
+    <text id="S" transform="translate(157.989 87)" fill="#662d91" stroke="#00fbfb" stroke-linejoin="bevel" stroke-width="1" font-size="65" font-family="Mustardo"><tspan x="0" y="0">S</tspan></text>
+    <text id="ks" transform="translate(186.534 85.284)" fill="#010101" stroke="#662d91" stroke-miterlimit="10" stroke-width="0.75" font-size="40" font-family="AgencyFB-Reg, Agency FB"><tspan x="0" y="0" letter-spacing="-0.14em">k</tspan><tspan y="0">s</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M.657,41.6C1.888,32.161,44.8,43.8,71.216,15.892c3.635-3.84,8.794-10.377,10.377-9.058s-2.052,15.39-8.472,25.445C59.959,52.8,32.931,63.791,12.089,52.8,9.949,51.626.07,46.2.657,41.6Z" transform="translate(144.369 38.695)" opacity="0.82" fill="url(#linear-gradient)"/>
+    <path id="Path_2" data-name="Path 2" d="M79.391,63.335c-7.692,8.873-27.319-43.3-65.046-38.451C9.17,25.534,1,27.575.94,24.736c0-3.549,12.613-14.227,24.124-18.811,23.728-9.554,49.379,4.141,54.893,35.168C80.523,44.316,83.125,59.046,79.391,63.335Z" transform="translate(144.964 31.482)" opacity="0.83" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
